@@ -1,2 +1,2 @@
-# My Own nod to YAHOO's Directory
-### Jon's Another Heirarchcal Officious Oracle
+# A nod to YAHOO's directory
+### `Jon's Another Heirarchcal Officious Oracle`
