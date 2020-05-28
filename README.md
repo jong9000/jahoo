@@ -4,7 +4,7 @@ A personal nod to YAHOO's now defunct directory of the internet. Built with HTML
 
 #### Go to the live directory [here](https://jong9000.github.io/jongslist/).
 
-### CSS 
+## CSS provided by: 
 - [Primitive UI](https://github.com/taniarascia/primitive) - by Tania Rascia
 
 ### Inspiration
